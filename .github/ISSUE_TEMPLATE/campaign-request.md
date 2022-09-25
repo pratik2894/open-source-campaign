@@ -31,7 +31,7 @@ assignees: ''
 ## Quest 1 Learning Objectives
 *.1 - Stackies able to create the website by using the html , css , javascript 
  .2 - Use their learned skills to develop the webpage for internet 
-*.3 - stackies can develop the problem solving skills 
+.3 - stackies can develop the problem solving skills*
 
 ## Quest 1 Deliverables
 *1.Quiz completion through the platform
@@ -47,16 +47,16 @@ assignees: ''
 - Why this is useful for Stackies*
 
 ## Quest 2 Learning Objectives
-*1. teaching the frontend framework *
+*1. teaching the frontend framework 
  2.how to connect the html , css and js in framework
- 3.teaching the routing , url's , middleware 
+ 3.teaching the routing , url's , middleware * 
 
 ## Quest 2 Deliverables
 *1.Quiz completion through the platform
 -Make sure you have clicked "Join quest"
 -Complete the quiz
 -Submit the quiz
--Scroll to the top of the page and click "Submit quest
+-Scroll to the top of the page and click "Submit quest *
 
 
 **IMPORTANT:** You should have **Summary**, **Learning Objectives** and **Deliverables** sections for each quest you are suggesting. For example, if you have 3 quests, you should fill in this information for Quest 1 in the template above, then copy and paste the headings and fill up the information for Quest 2 and Quest 3 also.
