@@ -29,9 +29,9 @@ assignees: ''
 - for getting start with frontend developnment Stackies need to understand the how the html element's work and how to style them by using the css and make the webpage responsive and attractive and by using the javascript Stackies will get knowledge about how the DOM and BOM works  *
 
 ## Quest 1 Learning Objectives
-*.1 - Stackies able to create the website by using the html , css , javascript 
- .2 - Use their learned skills to develop the webpage for internet 
-.3 - stackies can develop the problem solving skills*
+* - Stackies able to create the website by using the html , css , javascript 
+  - Use their learned skills to develop the webpage for internet 
+ - stackies can develop the problem solving skills *
 
 ## Quest 1 Deliverables
 *1.Quiz completion through the platform
