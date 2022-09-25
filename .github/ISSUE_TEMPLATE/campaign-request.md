@@ -47,9 +47,9 @@ assignees: ''
 - Why this is useful for Stackies*
 
 ## Quest 2 Learning Objectives
-*- teaching the frontend framework 
- - how to connect the html , css and js in framework
- - teaching the routing , url's , middleware * 
+* - teaching the frontend framework 
+  - how to connect the html , css and js in framework
+  - teaching the routing , url's , middleware * 
 
 ## Quest 2 Deliverables
 *- Quiz completion through the platform
