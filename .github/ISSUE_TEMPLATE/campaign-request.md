@@ -34,11 +34,11 @@ assignees: ''
  - stackies can develop the problem solving skills *
 
 ## Quest 1 Deliverables
-*1.Quiz completion through the platform
--Make sure you have clicked "Join quest"
--Complete the quiz
--Submit the quiz
--Scroll to the top of the page and click "Submit quest*
+*-Quiz completion through the platform
+- Make sure you have clicked "Join quest"
+- Complete the quiz
+- Submit the quiz
+- Scroll to the top of the page and click "Submit quest*
 
 ## Quest 2 Summary
 *Write a 1-3 sentence description of the first quest. Your description should cover the following:
@@ -52,11 +52,11 @@ assignees: ''
  - teaching the routing , url's , middleware * 
 
 ## Quest 2 Deliverables
-*1.Quiz completion through the platform
--Make sure you have clicked "Join quest"
--Complete the quiz
--Submit the quiz
--Scroll to the top of the page and click "Submit quest *
+*- Quiz completion through the platform
+- Make sure you have clicked "Join quest"
+- Complete the quiz
+- Submit the quiz
+- Scroll to the top of the page and click "Submit quest *
 
 
 **IMPORTANT:** You should have **Summary**, **Learning Objectives** and **Deliverables** sections for each quest you are suggesting. For example, if you have 3 quests, you should fill in this information for Quest 1 in the template above, then copy and paste the headings and fill up the information for Quest 2 and Quest 3 also.
